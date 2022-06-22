@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyThirdTask", "TwentyThirdTask\TwentyThirdTask.csproj", "{564A6977-88BE-4CD4-9A94-4B8D88FE9E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564A6977-88BE-4CD4-9A94-4B8D88FE9E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564A6977-88BE-4CD4-9A94-4B8D88FE9E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564A6977-88BE-4CD4-9A94-4B8D88FE9E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564A6977-88BE-4CD4-9A94-4B8D88FE9E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C91A26D7-6914-4AE6-A84D-6E8C72212AFF}
+	EndGlobalSection
+EndGlobal
